@@ -48,10 +48,10 @@ _Jan 2022 – Dec 2022_
 ## PUBLICATIONS
 
 **Published**:  
-- Cai, Rizhao, Cecelia Soh, Zitong Yu, Haoliang Li, Wenhan Yang, and Alex C. Kot. _"Towards Data-Centric Face Anti-spoofing: Improving Cross-Domain Generalization via Physics-Based Data Synthesis."_ International Journal of Computer Vision (2024): 1–22.
+- Cai, Rizhao, **Cecelia Soh**, Zitong Yu, Haoliang Li, Wenhan Yang, and Alex C. Kot. _"Towards Data-Centric Face Anti-spoofing: Improving Cross-Domain Generalization via Physics-Based Data Synthesis."_ International Journal of Computer Vision (2024): 1–22.
 
 **Forthcoming**:  
-- Cecelia Soh, Rizhao Cai, Monalisha Paul, Dennis Sng and Alex C. Kot. _"AI-driven Remote Facial Skin Hydration and TEWL Assessment from Selfie Images: A Systematic Solution."_ Machine Intelligence Research (2025).
+- **Cecelia Soh**, Rizhao Cai, Monalisha Paul, Dennis Sng and Alex C. Kot. _"AI-driven Remote Facial Skin Hydration and TEWL Assessment from Selfie Images: A Systematic Solution."_ Machine Intelligence Research (2025).
 
 ---
 
