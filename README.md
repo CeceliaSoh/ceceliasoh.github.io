@@ -13,9 +13,9 @@ A Computer Engineering graduate from Nanyang Technological University, I've focu
 
 ## EDUCATION
 
-**Nanyang Technological University, Singapore**  
-_Bachelor of Engineering (Computer Engineering), Aug 2019 – June 2023_ <br>
-_Graduated with Honours (Highest Distinction), 2023_  <br>
+**Bachelor of Engineering (Computer Engineering)**  
+_Aug 2019 – June 2023, Nanyang Technological University, Singapore_ <br>
+_Graduated with Honours (Highest Distinction)_  <br>
 Specialised: Artificial Intelligence  
 
 ---
