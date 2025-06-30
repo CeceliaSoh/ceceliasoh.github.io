@@ -15,9 +15,9 @@ A Computer Engineering graduate from Nanyang Technological University, I've focu
 
 **Nanyang Technological University, Singapore**  
 _Bachelor of Engineering (Computer Engineering)_  
+_Aug 2019 – June 2023_
 Specialised: Artificial Intelligence  
 _Graduated with Honours (Highest Distinction), 2023_  
-_Aug 2019 – June 2023_
 
 ---
 
@@ -33,7 +33,7 @@ _Aug 2019 – June 2023_
 ### _July 2023 – Dec 2024_  
 **Rapid-Rich Object Search Lab, NTU**  
 *Project Officer*
-- **Engineered a deep learning framework** for analysing facial skin conditions, which powered the development of a consumer app for Procter & Gamble, enhancing their skincare solutions.
+**Engineered a deep learning framework** for analysing facial skin conditions, which powered the development of a consumer app for Procter & Gamble, enhancing their skincare solutions.
 - The developed framework pipeline included face detection, assessment point estimation, and skin assessment.
 - **Ensured seamless collaboration with stakeholders** by aligning project deliverables with business goals, contributing to impactful and actionable outcomes.
 
@@ -41,7 +41,7 @@ _Aug 2019 – June 2023_
 ### _Aug 2022 – May 2023_  
 **S-Lab, NTU**  
 *Final Year Project*
-- **Title**: _Generating Human Face by Generative Adversarial Networks_  
+**Title**: _Generating Human Face by Generative Adversarial Networks_  
 - **Harnessed expertise in GAN models** by mastering their conceptual framework, development, and applications.
 - **Developed a novel application** integrating GANgealing for visual alignment with AttGAN for human facial attribute editing.
 
