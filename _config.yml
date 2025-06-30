@@ -5,6 +5,6 @@ description: >
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="16" style="vertical-align:middle; margin-right:4px;">
     LinkedIn
   </a>
-remote_theme: pages-themes/cayman@v0.2.0
+remote_theme: pages-themes/leap-day@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
