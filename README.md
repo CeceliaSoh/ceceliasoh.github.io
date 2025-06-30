@@ -1,3 +1,5 @@
+# Cecelia Soh
+
 ## PROFESSIONAL SUMMARY
 
 A Computer Engineering graduate from Nanyang Technological University, I've focused on Artificial Intelligence since June 2021. My expertise spans machine learning, computer vision, and image processing. I've gained practical research experience, especially in exploring face attribute editing with Generative Adversarial Networks (GANs) and designing custom data augmentation for face anti-spoofing. I also developed deep learning models for facial skin condition estimation during a project with Procter & Gamble. Committed to cutting-edge AI research and development, I'm excited to embark on my part-time Master of Computing in AI at the National University of Singapore, commencing August 2025.
