@@ -49,7 +49,7 @@ _Final Year Project_
 ### _Jan 2022 – Dec 2022_  
 **Rapid-Rich Object Search Lab, NTU**  
 _Internship_
-- **Title**: _Face Anti-Spoofing Research Project_  
+**Title**: _Face Anti-Spoofing Research Project_  
 - **Pioneered task-specific data augmentations for Face Anti-Spoofing (FAS)**, significantly enhancing the performance of ViT-based models through rigorous evaluation and comparison.
 - **Co-authored and published a peer-reviewed paper** in *International Journal of Computer Vision (IJCV)*), showcasing the methodology and validating the impact of the proposed augmentations on FAS tasks.
 
