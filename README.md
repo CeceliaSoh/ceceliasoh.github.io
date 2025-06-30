@@ -32,7 +32,7 @@ _Aug 2019 – June 2023_
 
 ### _July 2023 – Dec 2024_  
 **Rapid-Rich Object Search Lab, NTU**  
-*Project Officer** 
+*Project Officer*
 - **Engineered a deep learning framework** for analysing facial skin conditions, which powered the development of a consumer app for Procter & Gamble, enhancing their skincare solutions.
 - The developed framework pipeline included face detection, assessment point estimation, and skin assessment.
 - **Ensured seamless collaboration with stakeholders** by aligning project deliverables with business goals, contributing to impactful and actionable outcomes.
@@ -41,7 +41,7 @@ _Aug 2019 – June 2023_
 ### _Aug 2022 – May 2023_  
 **S-Lab, NTU**  
 *Final Year Project*
-**Title**: _Generating Human Face by Generative Adversarial Networks_  
+- **Title**: _Generating Human Face by Generative Adversarial Networks_  
 - **Harnessed expertise in GAN models** by mastering their conceptual framework, development, and applications.
 - **Developed a novel application** integrating GANgealing for visual alignment with AttGAN for human facial attribute editing.
 
@@ -49,7 +49,7 @@ _Aug 2019 – June 2023_
 ### _Jan 2022 – Dec 2022_  
 **Rapid-Rich Object Search Lab, NTU**  
 *Internship*
-**Title**: _Face Anti-Spoofing Research Project_  
+- **Title**: _Face Anti-Spoofing Research Project_  
 - **Pioneered task-specific data augmentations for Face Anti-Spoofing (FAS)**, significantly enhancing the performance of ViT-based models through rigorous evaluation and comparison.
 - **Co-authored and published a peer-reviewed paper** in *International Journal of Computer Vision (IJCV)*), showcasing the methodology and validating the impact of the proposed augmentations on FAS tasks.
 
