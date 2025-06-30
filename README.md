@@ -90,4 +90,8 @@ _Internship_ <br>
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="16" style="vertical-align:middle; margin-right:4px;">
   LinkedIn
 </a> <br>
+<a href="https://scholar.google.com/citations?user=9BuyLy8AAAAJ" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlescholar.svg" alt="Google Scholar" width="16" style="vertical-align:middle; margin-right:4px;">
+  Google Scholar
+</a> <br>
 📧<a href="mailto:ceceliasoh1030@gmail.com">ceceliasoh1030@gmail.com</a>
