@@ -1,4 +1,9 @@
 # Cecelia Soh
+📧 <a href="mailto:ceceliasoh1030@gmail.com">ceceliasoh1030@gmail.com</a><br>
+<a href="https://www.linkedin.com/in/cecelia-soh-6b3522217/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="16" style="vertical-align:middle; margin-right:4px;">
+  LinkedIn
+</a>
 
 ## PROFESSIONAL SUMMARY
 
@@ -18,32 +23,32 @@ _Aug 2019 – June 2023_
 
 ## PROFESSIONAL EXPERIENCE
 
-### **PC Partner Technology Pte. Limited**  
-**AI Engineer**  
-_March 2025 – Now_  
+### _March 2025 – Now_  
+**PC Partner Technology Pte. Limited**  
+*AI Engineer*
 - **Designed and implemented localized AI agents using large language models (LLMs)** for an embedded storage product, ensuring secure and privacy-preserving handling of consumer data.
 - **Integrated Retrieval-Augmented Generation (RAG)**, long-term memory, and tool-calling capabilities (e.g., search, code execution, API interaction) to support contextual, multi-step task execution, leveraging LangChain frameworks for modularity and performance optimization.
 
 
-### **Rapid-Rich Object Search Lab, NTU**  
-**Project Officer**  
-_July 2023 – Dec 2024_  
+### _July 2023 – Dec 2024_  
+**Rapid-Rich Object Search Lab, NTU**  
+*Project Officer** 
 - **Engineered a deep learning framework** for analysing facial skin conditions, which powered the development of a consumer app for Procter & Gamble, enhancing their skincare solutions.
 - The developed framework pipeline included face detection, assessment point estimation, and skin assessment.
 - **Ensured seamless collaboration with stakeholders** by aligning project deliverables with business goals, contributing to impactful and actionable outcomes.
 
 
-### **S-Lab, NTU**  
-**Final Year Project**  
-_Aug 2022 – May 2023_  
+### _Aug 2022 – May 2023_  
+**S-Lab, NTU**  
+*Final Year Project*
 **Title**: _Generating Human Face by Generative Adversarial Networks_  
 - **Harnessed expertise in GAN models** by mastering their conceptual framework, development, and applications.
 - **Developed a novel application** integrating GANgealing for visual alignment with AttGAN for human facial attribute editing.
 
 
-### **Rapid-Rich Object Search Lab, NTU**  
-**Internship**  
-_Jan 2022 – Dec 2022_  
+### _Jan 2022 – Dec 2022_  
+**Rapid-Rich Object Search Lab, NTU**  
+*Internship*
 **Title**: _Face Anti-Spoofing Research Project_  
 - **Pioneered task-specific data augmentations for Face Anti-Spoofing (FAS)**, significantly enhancing the performance of ViT-based models through rigorous evaluation and comparison.
 - **Co-authored and published a peer-reviewed paper** in *International Journal of Computer Vision (IJCV)*), showcasing the methodology and validating the impact of the proposed augmentations on FAS tasks.
