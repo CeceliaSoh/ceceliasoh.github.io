@@ -1,13 +1,13 @@
 # Cecelia Soh
-📧<a href="mailto:ceceliasoh1030@gmail.com">ceceliasoh1030@gmail.com</a><br>
 <a href="https://github.com/your-github-username" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" alt="GitHub" width="16" style="vertical-align:middle; margin-right:4px;">
   GitHub
-</a>
+</a> <br>
 <a href="https://www.linkedin.com/in/cecelia-soh-6b3522217/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="16" style="vertical-align:middle; margin-right:4px;">
   LinkedIn
-</a>
+</a> <br>
+📧<a href="mailto:ceceliasoh1030@gmail.com">ceceliasoh1030@gmail.com</a>
 
 ## PROFESSIONAL SUMMARY
 
