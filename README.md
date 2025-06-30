@@ -81,7 +81,7 @@ _Internship_ <br>
 - English  
 - Chinese
 
-## CONTACTS
+## CONNECT WITH ME
 <a href="https://github.com/CeceliaSoh" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" alt="GitHub" width="16" style="vertical-align:middle; margin-right:4px;">
   GitHub
