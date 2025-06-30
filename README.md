@@ -19,29 +19,29 @@ _Aug 2019 – June 2023_
 ### **PC Partner Technology Pte. Limited**  
 **AI Engineer**  
 _March 2025 – Now_  
-- Designed and implemented localized AI agents using large language models (LLMs) for an embedded storage product, ensuring secure and privacy-preserving handling of consumer data.
-- Integrated Retrieval-Augmented Generation (RAG), long-term memory, and tool-calling capabilities (e.g., search, code execution, API interaction) to support contextual, multi-step task execution, leveraging LangChain frameworks for modularity and performance optimization.
+- **Designed and implemented localized AI agents using large language models (LLMs)** for an embedded storage product, ensuring secure and privacy-preserving handling of consumer data.
+- **Integrated Retrieval-Augmented Generation (RAG)**, long-term memory, and tool-calling capabilities (e.g., search, code execution, API interaction) to support contextual, multi-step task execution, leveraging LangChain frameworks for modularity and performance optimization.
 
 ### **Rapid-Rich Object Search Lab, NTU**  
 **Project Officer**  
 _July 2023 – Dec 2024_  
-- Engineered a deep learning framework for analysing facial skin conditions, which powered the development of a consumer app for Procter & Gamble, enhancing their skincare solutions.
+- **Engineered a deep learning framework** for analysing facial skin conditions, which powered the development of a consumer app for Procter & Gamble, enhancing their skincare solutions.
 - The developed framework pipeline included face detection, assessment point estimation, and skin assessment.
-- Ensured seamless collaboration with stakeholders by aligning project deliverables with business goals, contributing to impactful and actionable outcomes.
+- **Ensured seamless collaboration with stakeholders** by aligning project deliverables with business goals, contributing to impactful and actionable outcomes.
 
 ### **S-Lab, NTU**  
 **Final Year Project**  
 _Aug 2022 – May 2023_  
 **Title**: _Generating Human Face by Generative Adversarial Networks_  
-- Harnessed expertise in GAN models by mastering their conceptual framework, development, and applications.
-- Developed a novel application integrating GANgealing for visual alignment with AttGAN for human facial attribute editing.
+- **Harnessed expertise in GAN models** by mastering their conceptual framework, development, and applications.
+- **Developed a novel application** integrating GANgealing for visual alignment with AttGAN for human facial attribute editing.
 
 ### **Rapid-Rich Object Search Lab, NTU**  
 **Internship**  
 _Jan 2022 – Dec 2022_  
 **Title**: _Face Anti-Spoofing Research Project_  
-- Pioneered task-specific data augmentations for Face Anti-Spoofing (FAS), significantly enhancing the performance of ViT-based models.
-- Co-authored and published a peer-reviewed paper in *International Journal of Computer Vision (IJCV)*.
+- **Pioneered task-specific data augmentations for Face Anti-Spoofing (FAS)**, significantly enhancing the performance of ViT-based models through rigorous evaluation and comparison.
+- **Co-authored and published a peer-reviewed paper** in *International Journal of Computer Vision (IJCV)*), showcasing the methodology and validating the impact of the proposed augmentations on FAS tasks.
 
 ---
 
@@ -57,18 +57,18 @@ _Jan 2022 – Dec 2022_
 
 ## HONORS & AWARDS
 
-- Graduated with Honours (Highest Distinction), B.Eng. Computer Engineering, NTU  
-- Accenture Gold Medal – Book Prize, NTU SCSE, for academic excellence (Non-Graduating Year)
+2023 - **Graduated with Honours (Highest Distinction)**, B.Eng. Computer Engineering, NTU  
+2021 - **Accenture Gold Medal – Book Prize**, NTU SCSE, for academic excellence (Non-Graduating Year)
 
 ---
 
 ## TECHNICAL SKILLS
 
-- **Programming Languages**: Python, MATLAB, C/C++  
-- **Machine Learning Frameworks**: PyTorch, LangChain  
-- **Data Processing**: Numpy, Pandas, OpenCV  
-- **Data Visualization**: Matplotlib, SciPy  
-- **Model Monitoring and Deployment**: TensorBoard, MLFlow, Docker, AWS
+- Programming Languages: Python, MATLAB, C/C++  
+- Machine Learning Frameworks: PyTorch, LangChain  
+- Data Processing: Numpy, Pandas, OpenCV  
+- Data Visualization: Matplotlib, SciPy  
+- Model Monitoring and Deployment: TensorBoard, MLFlow, Docker, AWS
 
 ---
 
