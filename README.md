@@ -22,6 +22,7 @@ _March 2025 – Now_
 - **Designed and implemented localized AI agents using large language models (LLMs)** for an embedded storage product, ensuring secure and privacy-preserving handling of consumer data.
 - **Integrated Retrieval-Augmented Generation (RAG)**, long-term memory, and tool-calling capabilities (e.g., search, code execution, API interaction) to support contextual, multi-step task execution, leveraging LangChain frameworks for modularity and performance optimization.
 
+
 ### **Rapid-Rich Object Search Lab, NTU**  
 **Project Officer**  
 _July 2023 – Dec 2024_  
@@ -29,12 +30,14 @@ _July 2023 – Dec 2024_
 - The developed framework pipeline included face detection, assessment point estimation, and skin assessment.
 - **Ensured seamless collaboration with stakeholders** by aligning project deliverables with business goals, contributing to impactful and actionable outcomes.
 
+
 ### **S-Lab, NTU**  
 **Final Year Project**  
 _Aug 2022 – May 2023_  
 **Title**: _Generating Human Face by Generative Adversarial Networks_  
 - **Harnessed expertise in GAN models** by mastering their conceptual framework, development, and applications.
 - **Developed a novel application** integrating GANgealing for visual alignment with AttGAN for human facial attribute editing.
+
 
 ### **Rapid-Rich Object Search Lab, NTU**  
 **Internship**  
